@@ -1,3 +1,3 @@
 ### 🌱 Hi there
 
-**🔭✨ I'm Adriana Oliveira, technologist student.
+##🔭✨ I'm Adriana Oliveira, technologist student.
