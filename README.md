@@ -1,13 +1,14 @@
-## 🌱 Hi there
+## 🔭 Olá, eu sou Adriana Oliveira 🌱
 
-## 🔭 I'm Adriana Oliveira, steeped in technology student.
+ ✨ Mergulhada em tecnologia, cultura e arte;
+ 
+ <p>⚡Trabalho na <a href="https://www.aluracursos.com/sobre)">Alura Latam</a> com suporte aos alunos na área de Back-End. </p>
+ 
+  -> Tecnologias: Java, Spring, C#, .NET, SQL, MySQL Server 2019
+  
+  -> Projeto de Software, Redes, Assistência Técnica em Hadwares... 
+  
+  -> Línguas: espanhol, inglês e língua brasileira de sinais (LIBRAS)
+ 
 
- ✨ develop skills to contribute to the community;
- 
- -> redes, software projects, technical service of computers and servers...
- 
- -> learner of the BackEnd Intern;
- 
- -> learner of the Portuguese-BR, Spanish and English languages;
- 
- ⚡enchanted by nature, sports and music.
+📫 adrianaodas@gmail.com
