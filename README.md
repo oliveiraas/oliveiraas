@@ -1,4 +1,4 @@
-## 🔭 Olá, eu sou Adriana Oliveira 🌱
+## 🔭 Olá, eu sou Adriana 🌱
 
  ✨ Mergulhada em tecnologia, cultura e arte;
  
@@ -6,9 +6,9 @@
  
   -> Tecnologias: Java, Spring, C#, .NET, SQL, MySQL Server 2019
   
-  -> Projeto de Software, Redes, Assistência Técnica em Hadwares... 
+  -> Também me aventuro com Projetos de Software, Redes e Assistência Técnica em Hadwares.
   
-  -> Línguas: espanhol, inglês e língua brasileira de sinais (LIBRAS)
+  -> [aprendiz] Línguas: espanhol, inglês e língua brasileira de sinais (LIBRAS)
  
 
 📫 adrianaodas@gmail.com
