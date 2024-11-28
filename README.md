@@ -6,7 +6,7 @@
     <span>Adriana oliveira</span>
 </h1>
 
-<p align="justify">Back-end Developer from Palmas-TO, Brazil, graduating at Internet Systems with Agile Methodology.</p>
+<p align="justify">Back-end Developer, graduating at Internet Systems.</p>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=d86c00&color:FFF)](https://www.linkedin.com/in/adrianaodas/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=d86c00&color:FFF)](https://www.instagram.com/unicaadrianaoliveira/)
